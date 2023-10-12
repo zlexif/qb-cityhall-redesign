@@ -1,7 +1,7 @@
 - REDESIGNED BY AHMAD
 
-```INSTRUCTIONS : 
-
+INSTRUCTIONS :
+```
 1. Go to resources > qb > qb-cityhall > html 
 2. Replace the index.html and style.css with the ones provided in the file.
 3. Restart the server.
